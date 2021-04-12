@@ -1,0 +1,50 @@
+.a {
+    color: white;
+}
+
+li {
+    color: white;
+}
+
+.h2 {
+    text-align: center !important;
+    color: white !important;
+}
+
+.h3 {
+    text-align: center !important;
+    color: black !important;
+}
+
+hr {
+    border: none;
+    height: 3px;
+    /* Set the hr color */
+    color: #333;
+    /* old IE */
+    background-color: #333;
+    /* Modern Browsers */
+}
+
+.libros a {
+    color: black;
+}
+
+.libros h2 {
+    text-align: center !important;
+    color: black !important;
+}
+
+ul,
+li {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+
+li a {
+    color: gray;
+}
+
+.last a {
+    color: black;
+}
